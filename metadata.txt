@@ -1,0 +1,8 @@
+[general]
+name=Revisión de fotos y direcciones
+description="Comprueba que los nombres de las fotos (Situacion, FInmueble, FContador, FArqueta) coinciden con la Direccion, detecta direcciones vacías o duplicadas y genera un PDF con un resumen y una ficha con fotos por cada punto a revisar."
+author=H.A.B.A.
+icon=icon.png
+version=1.6.0
+qfield_minimum_version=3.0
+homepage=
